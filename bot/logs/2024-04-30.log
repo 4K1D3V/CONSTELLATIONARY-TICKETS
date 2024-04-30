@@ -1,0 +1,204 @@
+
+	❯ Fusion Tickets by n0step_
+	❯ Powered by leekslazylogger v6.0.0
+	❯ Log level "info"
+	❯ Node.js v20.12.2 on linux
+	❯ Tuesday, 30 April 2024 at 23:08 PM (UTC) -->
+
+[30/04/24 23:08:34] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "category" autocompleter
+[30/04/24 23:08:34] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "references" autocompleter
+[30/04/24 23:08:34] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "tag" autocompleter
+[30/04/24 23:08:34] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "ticket" autocompleter
+[30/04/24 23:08:34] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "claim" button
+[30/04/24 23:08:34] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "close" button
+[30/04/24 23:08:34] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "create" button
+[30/04/24 23:08:34] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "edit" button
+[30/04/24 23:08:34] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "unclaim" button
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Create ticket from message" message command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Pin message" message command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "add" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "claim" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "close" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "force-close" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "help" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "move" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "new" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "priority" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "release" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "remove" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "tag" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "tickets" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "topic" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "transcript" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "transfer" slash command
+[30/04/24 23:08:34] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Create ticket for user" user command
+[30/04/24 23:08:34] [INFO] (MENUS) @src/listeners/menus/componentLoad.js:13:24 Loaded "create" menu
+[30/04/24 23:08:34] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "feedback" modal
+[30/04/24 23:08:34] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "questions" modal
+[30/04/24 23:08:34] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "topic" modal
+[30/04/24 23:08:34] [INFO] (PRISMA) @src/client.js:95:46 quaint::pooled Starting a sqlite pool with 17 connections.
+[30/04/24 23:08:35] [SUCCESS] (GLOBAL) @src/listeners/client/ready.js:33:14 Connected to Discord as "Dornox Test Bot#0272"
+[30/04/24 23:08:35] [INFO] (GLOBAL) @src/lib/sync.js:69:13 Cached ticket count of 0 categories (0 open tickets)
+[30/04/24 23:08:35] [INFO] (GLOBAL) @src/lib/sync.js:70:13 Loaded 0 active cooldowns
+[30/04/24 23:08:35] [INFO] (GLOBAL) @src/lib/sync.js:71:13 Closed 0 deleted tickets
+[30/04/24 23:08:35] [INFO] (GLOBAL) @src/listeners/client/ready.js:39:15 Automatically publishing commands...
+[30/04/24 23:08:35] [SUCCESS] (HTTP) @src/http.js:172:27 Listening at http://0.0.0.0:8169
+[30/04/24 23:08:36] [SUCCESS] (GLOBAL) @src/listeners/client/ready.js:41:34 Published 18 commands
+[30/04/24 23:08:36] [SUCCESS] (GLOBAL) @src/lib/stats.js:77:14 Posted client stats
+[30/04/24 23:08:48] [INFO] (COMMANDS) @src/listeners/commands/run.js:21:24 n0step_ used the "help" slash command
+[30/04/24 23:09:28] [INFO] (COMMANDS) @src/listeners/commands/run.js:21:24 n0step_ used the "help" slash command
+
+	❯ Fusion Tickets by n0step_
+	❯ Powered by leekslazylogger v6.0.0
+	❯ Log level "info"
+	❯ Node.js v20.12.2 on linux
+	❯ Tuesday, 30 April 2024 at 23:15 PM (UTC) -->
+
+[30/04/24 23:15:45] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "category" autocompleter
+[30/04/24 23:15:45] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "references" autocompleter
+[30/04/24 23:15:45] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "tag" autocompleter
+[30/04/24 23:15:45] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "ticket" autocompleter
+[30/04/24 23:15:45] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "claim" button
+[30/04/24 23:15:45] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "close" button
+[30/04/24 23:15:45] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "create" button
+[30/04/24 23:15:45] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "edit" button
+[30/04/24 23:15:45] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "unclaim" button
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Create ticket from message" message command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Pin message" message command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "add" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "claim" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "close" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "force-close" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "help" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "move" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "new" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "priority" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "release" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "remove" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "tag" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "tickets" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "topic" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "transcript" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "transfer" slash command
+[30/04/24 23:15:45] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Create ticket for user" user command
+[30/04/24 23:15:45] [INFO] (MENUS) @src/listeners/menus/componentLoad.js:13:24 Loaded "create" menu
+[30/04/24 23:15:45] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "feedback" modal
+[30/04/24 23:15:45] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "questions" modal
+[30/04/24 23:15:45] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "topic" modal
+[30/04/24 23:15:45] [INFO] (PRISMA) @src/client.js:95:46 quaint::pooled Starting a sqlite pool with 17 connections.
+[30/04/24 23:15:46] [SUCCESS] (GLOBAL) @src/listeners/client/ready.js:33:14 Connected to Discord as "Dornox Test Bot#0272"
+[30/04/24 23:15:46] [INFO] (GLOBAL) @src/lib/sync.js:69:13 Cached ticket count of 0 categories (0 open tickets)
+[30/04/24 23:15:46] [INFO] (GLOBAL) @src/lib/sync.js:70:13 Loaded 0 active cooldowns
+[30/04/24 23:15:46] [INFO] (GLOBAL) @src/lib/sync.js:71:13 Closed 0 deleted tickets
+[30/04/24 23:15:46] [INFO] (GLOBAL) @src/listeners/client/ready.js:39:15 Automatically publishing commands...
+[30/04/24 23:15:46] [SUCCESS] (HTTP) @src/http.js:172:27 Listening at http://0.0.0.0:8169
+[30/04/24 23:15:46] [WARN] (GLOBAL) @src/lib/stats.js:80:14 The following error is not important and can be safely ignored
+[30/04/24 23:15:46] [ERROR] (GLOBAL) @src/lib/stats.js:85:15 An error occurred whilst posting stats and the response couldn't be parsed: res.json is not a function
+[30/04/24 23:15:46] [SUCCESS] (GLOBAL) @src/listeners/client/ready.js:41:34 Published 18 commands
+[30/04/24 23:17:24] [INFO] (HTTP) @src/http.js:131:21 req-2 192.168.129.15 GET /api/users/@me -+> 401 in 2.03ms
+[30/04/24 23:17:25] [INFO] (HTTP) @src/http.js:131:21 req-3 192.168.129.15 GET /auth/login -+> 302 in 1.76ms
+[30/04/24 23:17:43] [INFO] (HTTP) @src/http.js:131:21 req-4 192.168.129.15 GET /auth/callback -+> 303 in 488.49ms
+[30/04/24 23:17:43] [INFO] (HTTP) @src/http.js:131:21 req-6 192.168.177.12 GET /api/users/@me -+> 200 in 1.61ms
+[30/04/24 23:17:43] [INFO] (HTTP) @src/http.js:131:21 req-7 192.168.129.15 GET /api/client -+> 200 in 3.64ms
+[30/04/24 23:17:44] [INFO] (HTTP) @src/http.js:131:21 req-a 192.168.129.15 GET /api/users/@me -+> 200 in 0.48ms
+[30/04/24 23:17:44] [INFO] (HTTP) @src/http.js:131:21 req-b 192.168.50.138 GET /api/client -+> 200 in 0.47ms
+[30/04/24 23:17:44] [INFO] (HTTP) @src/http.js:131:21 req-9 192.168.177.12 GET /api/admin/guilds -+> 200 in 185.56ms
+[30/04/24 23:22:51] [INFO] (HTTP) @src/http.js:131:21 req-d 192.168.129.15 GET /auth/logout -+> 200 in 187.44ms
+[30/04/24 23:22:51] [INFO] (HTTP) @src/http.js:131:21 req-f 192.168.50.138 GET /api/users/@me -+> 401 in 0.41ms
+[30/04/24 23:22:52] [INFO] (HTTP) @src/http.js:131:21 req-g 192.168.129.15 GET /auth/login -+> 302 in 0.87ms
+
+	❯ Fusion Tickets by n0step_
+	❯ Powered by leekslazylogger v6.0.0
+	❯ Log level "info"
+	❯ Node.js v20.12.2 on linux
+	❯ Tuesday, 30 April 2024 at 23:24 PM (UTC) -->
+
+[30/04/24 23:24:44] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "category" autocompleter
+[30/04/24 23:24:44] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "references" autocompleter
+[30/04/24 23:24:44] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "tag" autocompleter
+[30/04/24 23:24:44] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "ticket" autocompleter
+[30/04/24 23:24:44] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "claim" button
+[30/04/24 23:24:44] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "close" button
+[30/04/24 23:24:44] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "create" button
+[30/04/24 23:24:44] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "edit" button
+[30/04/24 23:24:44] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "unclaim" button
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Create ticket from message" message command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Pin message" message command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "add" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "claim" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "close" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "force-close" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "help" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "move" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "new" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "priority" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "release" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "remove" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "tag" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "tickets" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "topic" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "transcript" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "transfer" slash command
+[30/04/24 23:24:44] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Create ticket for user" user command
+[30/04/24 23:24:44] [INFO] (MENUS) @src/listeners/menus/componentLoad.js:13:24 Loaded "create" menu
+[30/04/24 23:24:44] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "feedback" modal
+[30/04/24 23:24:44] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "questions" modal
+[30/04/24 23:24:44] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "topic" modal
+[30/04/24 23:24:44] [INFO] (PRISMA) @src/client.js:95:46 quaint::pooled Starting a sqlite pool with 17 connections.
+[30/04/24 23:24:45] [SUCCESS] (GLOBAL) @src/listeners/client/ready.js:33:14 Connected to Discord as "Dornox Test Bot#0272"
+[30/04/24 23:24:45] [INFO] (GLOBAL) @src/lib/sync.js:69:13 Cached ticket count of 0 categories (0 open tickets)
+[30/04/24 23:24:45] [INFO] (GLOBAL) @src/lib/sync.js:70:13 Loaded 0 active cooldowns
+[30/04/24 23:24:45] [INFO] (GLOBAL) @src/lib/sync.js:71:13 Closed 0 deleted tickets
+[30/04/24 23:24:45] [INFO] (GLOBAL) @src/listeners/client/ready.js:39:15 Automatically publishing commands...
+[30/04/24 23:24:45] [SUCCESS] (HTTP) @src/http.js:172:27 Listening at http://0.0.0.0:8169
+[30/04/24 23:24:46] [WARN] (GLOBAL) @src/lib/stats.js:80:14 The following error is not important and can be safely ignored
+[30/04/24 23:24:46] [ERROR] (GLOBAL) @src/lib/stats.js:85:15 An error occurred whilst posting stats.
+[30/04/24 23:24:46] [SUCCESS] (GLOBAL) @src/listeners/client/ready.js:41:34 Published 18 commands
+
+	❯ Fusion Tickets by n0step_
+	❯ Powered by leekslazylogger v6.0.0
+	❯ Log level "info"
+	❯ Node.js v20.12.2 on linux
+	❯ Tuesday, 30 April 2024 at 23:24 PM (UTC) -->
+
+[30/04/24 23:24:55] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "category" autocompleter
+[30/04/24 23:24:55] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "references" autocompleter
+[30/04/24 23:24:55] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "tag" autocompleter
+[30/04/24 23:24:55] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "ticket" autocompleter
+[30/04/24 23:24:55] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "claim" button
+[30/04/24 23:24:55] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "close" button
+[30/04/24 23:24:55] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "create" button
+[30/04/24 23:24:55] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "edit" button
+[30/04/24 23:24:55] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "unclaim" button
+[30/04/24 23:24:55] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Create ticket from message" message command
+[30/04/24 23:24:55] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Pin message" message command
+[30/04/24 23:24:55] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "add" slash command
+[30/04/24 23:24:55] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "claim" slash command
+[30/04/24 23:24:55] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "close" slash command
+[30/04/24 23:24:56] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "force-close" slash command
+[30/04/24 23:24:56] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "help" slash command
+[30/04/24 23:24:56] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "move" slash command
+[30/04/24 23:24:56] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "new" slash command
+[30/04/24 23:24:56] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "priority" slash command
+[30/04/24 23:24:56] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "release" slash command
+[30/04/24 23:24:56] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "remove" slash command
+[30/04/24 23:24:56] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "tag" slash command
+[30/04/24 23:24:56] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "tickets" slash command
+[30/04/24 23:24:56] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "topic" slash command
+[30/04/24 23:24:56] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "transcript" slash command
+[30/04/24 23:24:56] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "transfer" slash command
+[30/04/24 23:24:56] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Create ticket for user" user command
+[30/04/24 23:24:56] [INFO] (MENUS) @src/listeners/menus/componentLoad.js:13:24 Loaded "create" menu
+[30/04/24 23:24:56] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "feedback" modal
+[30/04/24 23:24:56] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "questions" modal
+[30/04/24 23:24:56] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "topic" modal
+[30/04/24 23:24:56] [INFO] (PRISMA) @src/client.js:95:46 quaint::pooled Starting a sqlite pool with 17 connections.
+[30/04/24 23:24:56] [SUCCESS] (GLOBAL) @src/listeners/client/ready.js:33:14 Connected to Discord as "Dornox Test Bot#0272"
+[30/04/24 23:24:56] [INFO] (GLOBAL) @src/lib/sync.js:69:13 Cached ticket count of 0 categories (0 open tickets)
+[30/04/24 23:24:56] [INFO] (GLOBAL) @src/lib/sync.js:70:13 Loaded 0 active cooldowns
+[30/04/24 23:24:56] [INFO] (GLOBAL) @src/lib/sync.js:71:13 Closed 0 deleted tickets
+[30/04/24 23:24:56] [INFO] (GLOBAL) @src/listeners/client/ready.js:39:15 Automatically publishing commands...
+[30/04/24 23:24:56] [SUCCESS] (HTTP) @src/http.js:172:27 Listening at http://0.0.0.0:8169
+[30/04/24 23:24:57] [WARN] (GLOBAL) @src/lib/stats.js:80:14 The following error is not important and can be safely ignored
+[30/04/24 23:24:57] [WARN] (GLOBAL) @src/lib/stats.js:85:15 An error occurred whilst posting stats.
+[30/04/24 23:24:57] [SUCCESS] (GLOBAL) @src/listeners/client/ready.js:41:34 Published 18 commands

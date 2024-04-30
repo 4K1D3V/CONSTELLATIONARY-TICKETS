@@ -1,0 +1,6 @@
+# directories
+.history/
+.vscode/
+node_modules/
+prisma/
+.env
