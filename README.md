@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Fusion-Tickets
-=======
 # Fusion Tickets v1.0.3
 
 Install the packages for the Bot
